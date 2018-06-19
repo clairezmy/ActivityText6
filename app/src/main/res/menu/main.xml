@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/course"
+        android:title="添加课程"/>
+    <item
+        android:id="@+id/time"
+        android:title="设置课程或作业提醒"/>
+
+</menu>
